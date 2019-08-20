@@ -15,7 +15,7 @@ The data used for this project was the SMS Spam Collection Data Set available on
 *The objective here is to simulate two remote machines (that we will call Bob and Anne), where each machine have a similar number of labeled data points (SMS labeled as spam or not).*
 
 
-**Conclusion**
+### Conclusion / Result
 
 *We can see that with the PySyft library and its PyTorch extension, we can perform operations with tensor pointers such as we can do with PyTorch API (but for some limitations that are still to be addressed).*
 
