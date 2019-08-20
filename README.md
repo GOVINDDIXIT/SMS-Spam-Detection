@@ -1,5 +1,7 @@
 # SMS Spam Detection
 
+Author: [Govind Dixit](https://github.com/GOVINDDIXIT)
+
 *Federated Learning is a machine learning setting where the goal is to train a high-quality centralized model with training data distributed over a large number of clients each with unreliable and relatively slow network connections.*
 
 *In this project I have used Federated Learning with the PyTorch extension of PySyft for a classification task with a simple 1-layer GRU.* 
